@@ -22,8 +22,8 @@ zipp==3.6.0
 #overview
 APPNP/ contains the implementation of LGGCL_{APPNP} on cora, citeseer, pubmed datasets (train_APPNP_cl.py) and coauthor dataset (train_APPNP_coauthor.py) and ogbn-arxiv dataset (train_APPNP_ogb.py).
 GAT-dgl/ contains the implementation of LGGCL_{GAT} on cora, citeseer, pubmed datasets (train_dgl_cl.py) and coauthor dataset (train_dgl_cl_coauthor.py) and ogbn-arxiv dataset (train_dgl_ogb.py).
-GCN/ contains the implementation of LGGCL_{GCN} on cora, citeseer, pubmed datasets (train.py) and coauthor dataset (train_coauthor.py) and ogbn-arxiv dataset (train_ogb.py).
-SGC/ contains the implementation of LGGCL_{SGC} on cora, citeseer, pubmed datasets (train.py) and coauthor dataset (train_coauthor.py) and ogbn-arxiv dataset (train_ogb.py).
+GCN/ contains the implementation of LGGCL_{GCN} on cora, citeseer, pubmed datasets (gcn/   train.py) and coauthor dataset (train_coauthor.py) and ogbn-arxiv dataset (train_ogb.py).
+SGC/ contains the implementation of LGGCL_{SGC} on cora, citeseer, pubmed datasets (sgc/   train.py) and coauthor dataset (train_coauthor.py) and ogbn-arxiv dataset (train_ogb.py).
 
 #running examples
 #GCN
